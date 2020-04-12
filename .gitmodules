@@ -1,0 +1,3 @@
+[submodule "module-cuberite-egg"]
+	path = module-cuberite-egg
+	url = https://github.com/equitas-mc/module-cuberite-egg.git
